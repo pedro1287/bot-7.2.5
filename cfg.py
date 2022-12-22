@@ -1,2 +1,2 @@
-TOKEN = '5554579401:AAFNrfVg-nW6Zqzhnw57UrdgqydTRKCclmg'
-ADMIN = 'Zeta30'
+TOKEN = '5841302488:AAGDTeMmCinM_vDmmryhEiZC_tGiyrg0Uuk'
+ADMIN = 'JAGB2021'
